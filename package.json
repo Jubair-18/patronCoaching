@@ -16,6 +16,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwt": "^0.2.0",
     "mongoose": "^6.0.8",
+    "node-base64": "^0.0.1",
     "node-waf": "^1.0.0",
     "path": "^0.12.7"
   },
